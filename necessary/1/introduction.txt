@@ -1,8 +1,0 @@
-http://www.apkbus.com/android-103081-1-1.html?_dsign=76eca322 下载
-
-http://www.manongjc.com/article/30908.html 水
-
-https://forum.qt.io/topic/75883/opengl-displaying-dynamic-image-content-as-texture 问答
-
-
-到时候可以弄一个动态的雨滴下落贴图 有bump也有dynamic
